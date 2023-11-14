@@ -50,5 +50,6 @@ Ahora podemos ver el repositorio en la ubicación que seleccionamos para clonarl
 
 ![863b5e83962e8dc380da18a951bceb98](https://github.com/JuanD-20/Parcial/assets/107315767/54cb205d-4d6c-4793-9cfb-5faf86f3cdc6)
 
+### Hecho por: Juan David Mosquera / JuanD-20
 
 
