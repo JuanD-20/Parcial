@@ -18,10 +18,10 @@ Esta es la función principal que implementa el sistema de menú. Presenta al us
 #### Sys
 Sys es la unica libreria usada en el prgrama y basicamente hace lo siguiente:
 
-#####sys: 
+###### sys: 
 es un módulo integrado en Python que proporciona acceso a algunas variables y funciones relacionadas con el intérprete de Python.
 
-#####Función sys.exit(): 
+##### Función sys.exit(): 
 Se utiliza para salir del programa. Cuando llama a sys.exit(), genera la excepción SystemExit que finaliza el programa. En este programa, se usa para salir del programa si el usuario ingresa una opción no válida en el menú.
 
 Aqui esta el resultado del programa:
