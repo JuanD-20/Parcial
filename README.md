@@ -24,6 +24,12 @@ es un módulo integrado en Python que proporciona acceso a algunas variables y f
 #### Función sys.exit(): 
 Se utiliza para salir del programa. Cuando llama a sys.exit(), genera la excepción SystemExit que finaliza el programa. En este programa, se usa para salir del programa si el usuario ingresa una opción no válida en el menú.
 
-Aqui esta el resultado del programa:
+## Aqui esta el resultado del programa:
+
+Para el caso 1, un solo caracter:
+
+![89e6b8840dd1f08b20928d59dd081004](https://github.com/JuanD-20/Parcial/assets/107315767/fd20d099-1a6f-4ded-9eef-04447213267f)
+
+Para el caso 2, una palabra:
 
 ![34dcc5b3fb1004c7273cc4763054e246](https://github.com/JuanD-20/Parcial/assets/107315767/d6266593-05c4-45a0-a908-636bb44cde80)
