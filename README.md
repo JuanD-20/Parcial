@@ -33,3 +33,7 @@ Para el caso 1, un solo caracter:
 Para el caso 2, una palabra:
 
 ![34dcc5b3fb1004c7273cc4763054e246](https://github.com/JuanD-20/Parcial/assets/107315767/d6266593-05c4-45a0-a908-636bb44cde80)
+
+## Como usar el repositorio:
+
+La manera mas facil es clonar el repositorio, la forma mas sencila de hacer esto es mediante [Git Hub Descktop](https://desktop.github.com/)
